@@ -1,1 +1,1 @@
-// Here goes settings for database,
+// Here goes settings for database, and some other stuff

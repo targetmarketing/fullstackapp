@@ -5,8 +5,6 @@ const debug = require('debug')('prvenac:server');
 const port = normalizePort(process.env.PORT || '3000')
 app.set('port', port)
 
-
-
 const server = http.createServer(app);
 
 // listen on provided port
@@ -43,4 +41,3 @@ function onListening() {
     : 'port ' + addr.port;
   debug('Listening on ' + bind);
 }
-
