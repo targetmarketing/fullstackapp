@@ -1,4 +1,5 @@
-<h1>Life meaning project</h1>
-<hh2>Copy of coinmarket</h2>
+# Tokenregister
+Coinmarketcap-like project focused on performance and speed
 
-<h3>documentacion</h3>
+## Current state
+Currently, this is just an application skeleton
